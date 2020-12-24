@@ -1,0 +1,202 @@
+body{
+	background-color: #E8E8E8;
+}
+header{
+	position: relative;
+	width: 100%;
+}
+
+header .nav {
+	position: absolute;
+	top:0;left: 0;
+	width: 16rem;
+	height: 2.25rem;
+	background-color: rgba(0,0,0,.5);
+}
+header .nav p{
+	color: #fff;
+}
+header .nav .p3{
+    font-size: 0.75rem;
+	padding: 0.375rem 0.55rem 0 0.45rem;
+}
+header .nav .p2{
+	margin-top:0.375rem;
+	width: 11.125rem;
+	height: 1.5rem;
+	background-color: #fff;
+	color: #999999;
+	font-size: 0.7rem;
+	line-height: 1.5rem;
+	border-radius: 0.075rem;
+	padding-left: 0.65rem;
+	display:inline-block
+}
+header .nav .p1{
+	font-size: 1.05rem;
+	padding:0.6rem 0.8rem 0 0;
+}
+header a{
+	font-size: 0.5rem;
+	position: absolute;
+	left:0.25rem;top:1.45rem;
+	color: #fff;
+}
+header .banner {
+    
+	width: 16rem;
+}
+header .banner img{
+	width: 100%;
+	height: 100%;
+}
+header .banner em{
+	width: 0.3rem;
+	height: 0.3rem;
+	border-radius: #fff;
+	position: absolute;
+	bottom:0; right:0;
+}
+.content {
+	width: 15.6rem;
+	height: 8.325rem;
+	background-color: #FFFFFF;
+	margin:0.5rem 0.25rem;
+}
+.content .con img{
+	width: 100%;height: 100%;
+}
+.content .con li{
+	width:2.5rem;
+	height:2.5rem;
+	padding: 0.6rem;
+	float: left;
+}
+.content .con a{
+	font-size: 0.55rem;
+	padding-left: 0.5rem;
+	
+	/* text-align: center; */
+}
+.content1 {
+	width: 15.6rem;
+	height: 10.3rem;
+	background-color: #FFFFFF;
+	margin:0.5rem 0.25rem;
+}
+.content1 h4{
+	font-size: 0.65rem;
+	border-left:0.15rem solid #2A89DE; 
+	padding-left: 0.5rem;
+	margin: 0.5rem;
+	color: #666666;
+}
+.content1 .zhong{
+	border-top:0.025rem solid #DADADA;
+}
+.content1 .right{
+	border-right: 0.025rem solid #DADADA;
+	width: 7.57rem;
+}
+.content1 p{
+	font-size: 0.55rem;
+	color: #000000;
+	padding:0.95rem 0 0 0.95rem;
+}
+.content1 span{
+	color:#FF4000 ;
+	font-size: 0.6rem;
+	display: block;
+	line-height: 1.2rem;
+	font-weight: bold;
+}
+.content1 .right img{
+	width: 5.9rem;height: 4.125rem;
+	padding: 0.825rem 1.2rem;
+}
+.content1 .left  .l-s img{
+	width: 3.825rem;
+	height: 4.075rem;
+	float: right;
+}
+.content1 .left {
+	width: 7.75rem;
+	height: 4.225rem;
+	border-bottom: 0.025rem solid #DADADA;
+}
+.content1 .left .l-s p{
+	width: 3.4rem;
+	float: left;
+	padding: 0.625rem 0 0 0.375rem;
+}
+.content1 .left .l-x p{
+	width: 3rem;
+	float: right;
+	padding:0.95rem 1rem 0 0;
+}
+.content1 .left  .l-x img{
+	width: 3.5rem;
+	height:3.75rem;
+	margin-top: 0.25rem;
+	float: left;
+}
+
+.content2 img{
+    width: 16rem;
+	height: 100%;
+}
+.denglv{
+	width: 16rem;
+	height: 1.05rem;
+	line-height: 0.05rem;
+}
+.denglv a,p{
+	color: #2A8ADE;
+	font-size: 0.35rem;
+}
+.denglv a{
+	padding-left:0.375rem ;
+}
+.denglv span{
+	font-size: 0.35rem;
+	color:#C8C8C8 ;
+	padding-left:0.375rem ;
+}
+.denglv p span{
+	font-size: 1rem;
+	padding-top: 0.25rem;
+	color: #2A89DE;
+}
+.content4 ul {
+	width: 16rem;
+	height: 2.975rem; 
+	background-color: #1771D2;
+}
+.content4 ul .li1,.li2,.li3{	
+	float: left;
+	height: 1.075rem;
+	width: 16rem;
+	font-size: 0.325rem;
+   text-align: center;
+	line-height: 1.075rem;
+}
+.content4 ul .li1 a{
+	color: #BAE9FF;
+}
+.content4 ul .li2 a{
+	padding: 0.5rem;
+	color: #fff;
+	padding-left:0.75rem;
+	background:url(../images/beijing.gif) no-repeat center left;
+}
+.content4 ul .li1 strong{
+	color:#A4D9F9;
+	font-size: 0.05rem;
+	padding:0.5rem;
+}
+.content4 ul .li2{
+	background-color: #2A8ADE;
+}
+.content4 ul .li3{
+	color:#FFFF99 ;
+}
